@@ -1,0 +1,19 @@
+/* MARK: Allow Button */
+"button_allow" = "POZWÓL";
+"button_allowed" = "POZWALAJ";
+"button_denied" = "NIE POZWALAJ";
+"button_next" = "DALEJ";
+
+/* MARK: UI labels */
+"permission_header" = "Wymagane pozwolenia";
+"permission_primary_label" = "Aby móc korzystać z niektórych funkcji tej aplikacji, musisz przyznać pozwolenia. Zobacz opis każdego pozwolenia";
+"permission_secondary_label" = "Aby wszystkie funkcje i funkcje działały prawidłowo, wymagane jest pozwolenia. Jeśli nie zostało pozwolone, musisz włączyć pozwolenia w ustawieniach";
+
+/* MARK: Permissions (name & description) */
+"camera_title" = "Aparat";
+"camera_description" = "Zezwól na użycie aparatu";
+
+"health_title" = "Zdrowie";
+"health_description" = "Zezwól na dostęp do informacji o swoim zdrowiu";
+
+
